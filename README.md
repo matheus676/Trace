@@ -11,5 +11,3 @@ Fim
 Recomeço
 
 Novo Meio
-
-Novo Fim
