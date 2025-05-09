@@ -17,5 +17,3 @@ Nova Versão
 Nova versão Início
 
 Nova versão Meio
-
-Nova versão fim
