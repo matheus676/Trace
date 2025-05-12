@@ -22,6 +22,6 @@ Nova versão Fim.
 
 Teste
 
-Teste Meio
+Teste Meio.
 
 Teste Fim.
